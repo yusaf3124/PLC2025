@@ -1,16 +1,19 @@
 {
 	"folders": [
     {
-      "path": "lab3-primit/c"
+      "path": "lab3-num/ada"
     },
     {
-      "path": "lab3-primit/java"
+      "path": "lab3-num/haskell"
     },
     {
-      "path": "lab3-primit/lisp"
+      "path": "lab3-num/java"
     },
     {
-      "path": "lab3-primit/haskell"
+      "path": "lab3-num/javascript"
+    },
+    {
+      "path": "lab3-num/lisp"
     }
 	],
 	"settings": {}
