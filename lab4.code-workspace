@@ -1,19 +1,16 @@
 {
 	"folders": [
     {
-      "path": "lab4-records/java"
+      "path": "lab4-primit/c"
     },
     {
-      "path": "lab4-records/c"
+      "path": "lab4-primit/haskell"
     },
     {
-      "path": "lab4-records/ada"
+      "path": "lab4-primit/java"
     },
     {
-      "path": "lab4-records/haskell"
-    },
-    {
-      "path": "lab4-records/lisp"
+      "path": "lab4-primit/javascript"
     }
 	],
 	"settings": {}
